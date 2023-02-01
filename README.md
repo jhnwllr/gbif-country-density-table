@@ -1,5 +1,7 @@
 ## gbif mediated occurrences per km2 for each iso2 place
 
+This table was last built : 2023-02-01
+
 
 
 
@@ -95,7 +97,7 @@
 |IE   |Ireland                                              |EUROPE        |   3523814|69445.01    |50.74        |
 |SV   |El Salvador                                          |LATIN_AMERICA |    947660|20539.23    |46.14        |
 |NC   |New Caledonia                                        |OCEANIA       |    857300|18841.03    |45.50        |
-|NZ   |New Zealand                                          |OCEANIA       |  11404048|268494.58   |42.47        |
+|NZ   |New Zealand                                          |OCEANIA       |  11404030|268494.58   |42.47        |
 |GM   |Gambia                                               |AFRICA        |    427287|10500.90    |40.69        |
 |CV   |Cabo Verde                                           |AFRICA        |    145468|3883.14     |37.46        |
 |SM   |San Marino                                           |EUROPE        |      2201|60.32       |36.49        |
@@ -240,5 +242,4 @@
 |TD   |Chad                                                 |AFRICA        |     73566|1266282.34  |0.06         |
 |LY   |Libya                                                |AFRICA        |     63199|1623760.90  |0.04         |
 
-This table was last built : 2023-02-01
 
