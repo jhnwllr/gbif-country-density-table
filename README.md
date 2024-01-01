@@ -1,6 +1,6 @@
 ## gbif mediated occurrences per km2 for each iso2 place
 
-This table was last built : 2023-12-01
+This table was last built : 2024-01-01
 
 
 
@@ -8,238 +8,238 @@ This table was last built : 2023-12-01
 
 |iso2 |title                                                |gbifRegion    | occ_count|area_sqkm   |occ_per_sqkm |
 |:----|:----------------------------------------------------|:-------------|---------:|:-----------|:------------|
-|VA   |Holy See                                             |EUROPE        |      2691|0.01        |220504.55    |
-|UM   |United States Minor Outlying Islands                 |OCEANIA       |    317771|28.00       |11347.12     |
-|BM   |Bermuda                                              |LATIN_AMERICA |    631048|62.30       |10128.83     |
-|GI   |Gibraltar                                            |EUROPE        |     31853|3.69        |8626.71      |
-|PT   |Portugal                                             |EUROPE        |  17692283|2767.06     |6393.89      |
-|AI   |Anguilla                                             |LATIN_AMERICA |    230669|80.67       |2859.28      |
-|SG   |Singapore                                            |ASIA          |   1360342|510.50      |2664.71      |
-|NL   |Netherlands                                          |EUROPE        |  96753941|37397.73    |2587.16      |
-|AS   |American Samoa                                       |OCEANIA       |    415926|180.31      |2306.78      |
-|IM   |Isle of Man                                          |EUROPE        |   1263133|574.82      |2197.45      |
-|NF   |Norfolk Island                                       |OCEANIA       |     72600|41.15       |1764.43      |
-|SX   |Sint Maarten (Dutch part)                            |LATIN_AMERICA |     35989|23.36       |1540.72      |
-|HK   |Hong Kong                                            |ASIA          |   1486048|1036.20     |1434.13      |
-|AW   |Aruba                                                |LATIN_AMERICA |    235678|169.77      |1388.25      |
-|DK   |Denmark                                              |EUROPE        |  53214067|42696.43    |1246.34      |
-|VI   |Virgin Islands (U.S.)                                |LATIN_AMERICA |    436855|354.75      |1231.45      |
-|BE   |Belgium                                              |EUROPE        |  35710003|30669.83    |1164.34      |
-|LU   |Luxembourg                                           |EUROPE        |   2983714|2608.47     |1143.86      |
-|MF   |Saint Martin (French part)                           |LATIN_AMERICA |     71935|68.28       |1053.54      |
-|KY   |Cayman Islands                                       |LATIN_AMERICA |    290339|309.20      |939.01       |
-|MO   |Macao                                                |ASIA          |     27948|30.08       |929.22       |
-|MH   |Marshall Islands                                     |OCEANIA       |    147464|164.82      |894.68       |
-|BL   |Saint Barthélemy                                     |LATIN_AMERICA |     21697|24.42       |888.37       |
-|MV   |Maldives                                             |ASIA          |     93540|108.74      |860.20       |
-|GG   |Guernsey                                             |EUROPE        |     58192|73.98       |786.57       |
-|JE   |Jersey                                               |EUROPE        |     86895|119.05      |729.90       |
-|CW   |Curaçao                                              |LATIN_AMERICA |    327925|463.25      |707.88       |
-|IO   |British Indian Ocean Territory                       |ASIA          |     34684|49.06       |706.96       |
-|SC   |Seychelles                                           |AFRICA        |    263897|435.67      |605.73       |
-|PN   |Pitcairn                                             |OCEANIA       |     23069|42.57       |541.91       |
-|CH   |Switzerland                                          |EUROPE        |  22179429|41435.80    |535.27       |
-|TW   |Chinese Taipei                                       |ASIA          |  18169295|36197.77    |501.95       |
-|GB   |United Kingdom of Great Britain and Northern Ireland |EUROPE        | 121382430|243783.21   |497.91       |
-|VG   |Virgin Islands (British)                             |LATIN_AMERICA |     71840|144.94      |495.65       |
-|CR   |Costa Rica                                           |LATIN_AMERICA |  24966582|51144.34    |488.16       |
-|MS   |Montserrat                                           |LATIN_AMERICA |     48258|99.60       |484.53       |
-|HM   |Heard Island and McDonald Islands                    |ANTARCTICA    |    190681|394.86      |482.90       |
-|LI   |Liechtenstein                                        |EUROPE        |     65227|137.25      |475.24       |
-|TV   |Tuvalu                                               |OCEANIA       |     10569|23.02       |459.15       |
-|PW   |Palau                                                |OCEANIA       |    217466|491.93      |442.06       |
-|MP   |Northern Mariana Islands                             |OCEANIA       |    254039|579.30      |438.52       |
-|NU   |Niue                                                 |OCEANIA       |     82309|220.57      |373.16       |
-|GD   |Grenada                                              |LATIN_AMERICA |    129582|347.26      |373.15       |
-|WF   |Wallis and Futuna                                    |OCEANIA       |     51694|139.33      |371.02       |
-|BB   |Barbados                                             |LATIN_AMERICA |    154537|444.22      |347.88       |
-|CK   |Cook Islands                                         |OCEANIA       |     65988|191.13      |345.25       |
-|AD   |Andorra                                              |EUROPE        |    153957|452.25      |340.43       |
-|MC   |Monaco                                               |EUROPE        |      6121|18.84       |324.90       |
-|GU   |Guam                                                 |OCEANIA       |    170456|564.20      |302.12       |
-|SE   |Sweden                                               |EUROPE        | 126590577|446178.44   |283.72       |
-|PR   |Puerto Rico                                          |LATIN_AMERICA |   2530299|9005.98     |280.96       |
-|BZ   |Belize                                               |LATIN_AMERICA |   5926996|22299.42    |265.79       |
-|PM   |Saint Pierre and Miquelon                            |NORTH_AMERICA |     63982|242.75      |263.57       |
-|FM   |Micronesia (Federated States of)                     |OCEANIA       |    166092|633.85      |262.04       |
-|TO   |Tonga                                                |OCEANIA       |    156939|603.11      |260.21       |
-|FR   |France                                               |EUROPE        | 149104406|636758.53   |234.16       |
-|IL   |Israel                                               |EUROPE        |   5089440|21900.93    |232.38       |
-|MT   |Malta                                                |EUROPE        |     72290|325.69      |221.96       |
-|FO   |Faroe Islands                                        |EUROPE        |    294416|1328.52     |221.61       |
-|TT   |Trinidad and Tobago                                  |LATIN_AMERICA |   1094006|5122.93     |213.55       |
-|NR   |Nauru                                                |OCEANIA       |      5319|28.77       |184.90       |
-|KI   |Kiribati                                             |OCEANIA       |    174420|949.86      |183.63       |
-|PF   |French Polynesia                                     |OCEANIA       |    591570|3336.55     |177.30       |
-|EE   |Estonia                                              |EUROPE        |   7700783|45819.04    |168.07       |
-|VC   |Saint Vincent and the Grenadines                     |LATIN_AMERICA |     59253|367.73      |161.13       |
-|AG   |Antigua and Barbuda                                  |LATIN_AMERICA |     72538|451.48      |160.67       |
-|KN   |Saint Kitts and Nevis                                |LATIN_AMERICA |     41419|264.13      |156.81       |
-|DE   |Germany                                              |EUROPE        |  55205762|357673.82   |154.35       |
-|DM   |Dominica                                             |LATIN_AMERICA |    109228|730.31      |149.56       |
-|TC   |Turks and Caicos Islands                             |LATIN_AMERICA |     64517|445.22      |144.91       |
-|LC   |Saint Lucia                                          |LATIN_AMERICA |     83933|605.13      |138.70       |
-|NO   |Norway                                               |EUROPE        |  48526786|382066.56   |127.01       |
-|ES   |Spain                                                |EUROPE        |  63183324|506884.12   |124.65       |
-|FI   |Finland                                              |EUROPE        |  39472962|333059.06   |118.52       |
-|AT   |Austria                                              |EUROPE        |   9535435|83993.20    |113.53       |
-|SH   |Saint Helena, Ascension and Tristan da Cunha         |AFRICA        |     39641|366.66      |108.11       |
-|US   |United States of America                             |NORTH_AMERICA | 944137426|9464330.07  |99.76        |
-|PA   |Panama                                               |LATIN_AMERICA |   7031853|74530.31    |94.35        |
-|GS   |South Georgia and the South Sandwich Islands         |ANTARCTICA    |    329841|3921.48     |84.11        |
-|BS   |Bahamas                                              |LATIN_AMERICA |    994791|12592.70    |79.00        |
-|CY   |Cyprus                                               |EUROPE        |    410752|5395.02     |76.14        |
-|JM   |Jamaica                                              |LATIN_AMERICA |    830846|11032.90    |75.31        |
-|PG   |Papua New Guinea                                     |OCEANIA       |   2098006|29367.93    |71.44        |
-|ST   |Sao Tome and Principe                                |AFRICA        |     72707|1037.16     |70.10        |
-|KR   |Korea, Republic of                                   |ASIA          |   6723228|98544.43    |68.23        |
-|MU   |Mauritius                                            |AFRICA        |    135418|2014.44     |67.22        |
-|IE   |Ireland                                              |EUROPE        |   3957683|69445.01    |56.99        |
-|SV   |El Salvador                                          |LATIN_AMERICA |   1135545|20539.23    |55.29        |
-|GM   |Gambia                                               |AFRICA        |    542063|10500.90    |51.62        |
-|NC   |New Caledonia                                        |OCEANIA       |    931016|18841.03    |49.41        |
-|NZ   |New Zealand                                          |OCEANIA       |  13260541|268494.58   |49.39        |
-|CZ   |Czechia                                              |EUROPE        |   3431208|78758.86    |43.57        |
-|SM   |San Marino                                           |EUROPE        |      2541|60.32       |42.13        |
-|CV   |Cabo Verde                                           |AFRICA        |    156148|3883.14     |40.21        |
-|SI   |Slovenia                                             |EUROPE        |    814016|20327.28    |40.05        |
-|GT   |Guatemala                                            |LATIN_AMERICA |   4186778|108811.25   |38.48        |
-|BH   |Bahrain                                              |ASIA          |     22433|584.94      |38.35        |
-|EC   |Ecuador                                              |LATIN_AMERICA |   9678223|255014.21   |37.95        |
-|TF   |French Southern Territories                          |ANTARCTICA    |    255270|7279.99     |35.06        |
-|ZA   |South Africa                                         |AFRICA        |  36484387|1219826.73  |29.91        |
-|JP   |Japan                                                |ASIA          |  11156107|373508.03   |29.87        |
-|HN   |Honduras                                             |LATIN_AMERICA |   3189620|112236.73   |28.42        |
-|KM   |Comoros                                              |AFRICA        |     46982|1672.23     |28.10        |
-|LK   |Sri Lanka                                            |ASIA          |   1795946|66291.18    |27.09        |
-|WS   |Samoa                                                |OCEANIA       |     74518|2780.41     |26.80        |
-|AE   |United Arab Emirates                                 |ASIA          |   1803277|71084.64    |25.37        |
-|PL   |Poland                                               |EUROPE        |   7776325|313430.77   |24.81        |
-|CO   |Colombia                                             |LATIN_AMERICA |  25354036|1135117.88  |22.34        |
-|IT   |Italy                                                |EUROPE        |   6568729|301185.07   |21.81        |
-|SZ   |Eswatini                                             |AFRICA        |    358775|17111.85    |20.97        |
-|GR   |Greece                                               |EUROPE        |   2718844|131353.44   |20.70        |
-|FJ   |Fiji                                                 |OCEANIA       |    365358|18930.08    |19.30        |
-|FK   |Falkland Islands (Malvinas)                          |LATIN_AMERICA |    223409|11597.22    |19.26        |
-|IS   |Iceland                                              |EUROPE        |   1948330|102390.07   |19.03        |
-|LT   |Lithuania                                            |EUROPE        |   1111200|64939.30    |17.11        |
-|KW   |Kuwait                                               |ASIA          |    297591|17474.02    |17.03        |
-|CU   |Cuba                                                 |LATIN_AMERICA |   1838137|109929.18   |16.72        |
-|DO   |Dominican Republic                                   |LATIN_AMERICA |    807300|48439.79    |16.67        |
-|AU   |Australia                                            |OCEANIA       | 123572871|7691175.09  |16.07        |
-|VU   |Vanuatu                                              |OCEANIA       |    197438|12296.60    |16.06        |
-|CA   |Canada                                               |NORTH_AMERICA | 156594658|9945527.76  |15.75        |
-|MX   |Mexico                                               |LATIN_AMERICA |  30613208|1957847.06  |15.64        |
-|SK   |Slovakia                                             |EUROPE        |    741297|48457.79    |15.30        |
-|GE   |Georgia                                              |EUROPE        |   1054851|69570.73    |15.16        |
-|HR   |Croatia                                              |EUROPE        |    830551|55077.44    |15.08        |
-|NI   |Nicaragua                                            |LATIN_AMERICA |   1829302|128691.43   |14.21        |
-|HU   |Hungary                                              |EUROPE        |   1266213|93200.95    |13.59        |
-|CL   |Chile                                                |LATIN_AMERICA |   9671961|736592.75   |13.13        |
-|IN   |India                                                |ASIA          |  41076572|3151452.49  |13.03        |
-|RW   |Rwanda                                               |AFRICA        |    319548|25305.05    |12.63        |
-|LB   |Lebanon                                              |ASIA          |    126261|10000.01    |12.63        |
-|QA   |Qatar                                                |ASIA          |    120641|11150.11    |10.82        |
-|BT   |Bhutan                                               |ASIA          |    428629|40365.36    |10.62        |
-|BG   |Bulgaria                                             |EUROPE        |   1144686|112760.69   |10.15        |
-|HT   |Haiti                                                |LATIN_AMERICA |    272934|26891.57    |10.15        |
-|TH   |Thailand                                             |ASIA          |   4967016|514453.68   |9.65         |
-|MY   |Malaysia                                             |ASIA          |   3143213|327884.89   |9.59         |
-|BJ   |Benin                                                |AFRICA        |   1106323|116113.31   |9.53         |
-|SB   |Solomon Islands                                      |OCEANIA       |    256471|27198.79    |9.43         |
-|BN   |Brunei Darussalam                                    |ASIA          |     53891|5716.69     |9.43         |
-|RS   |Serbia                                               |EUROPE        |    699474|77573.60    |9.02         |
-|LV   |Latvia                                               |EUROPE        |    546076|64576.40    |8.46         |
-|PH   |Philippines                                          |ASIA          |   2446174|293237.49   |8.34         |
-|UY   |Uruguay                                              |LATIN_AMERICA |   1398687|177345.13   |7.89         |
-|UG   |Uganda                                               |AFRICA        |   1889290|241853.63   |7.81         |
-|NP   |Nepal                                                |ASIA          |   1148966|147105.49   |7.81         |
-|ME   |Montenegro                                           |EUROPE        |     99945|13727.50    |7.28         |
-|AM   |Armenia                                              |EUROPE        |    204534|29588.31    |6.91         |
-|KE   |Kenya                                                |AFRICA        |   3917437|585702.58   |6.69         |
-|PE   |Peru                                                 |LATIN_AMERICA |   8322999|1289866.40  |6.45         |
-|TL   |Timor-Leste                                          |ASIA          |     81925|15082.24    |5.43         |
-|KH   |Cambodia                                             |ASIA          |    818801|181059.61   |4.52         |
-|AR   |Argentina                                            |LATIN_AMERICA |  12573555|2784305.92  |4.52         |
-|MK   |North Macedonia                                      |EUROPE        |    112093|25385.27    |4.42         |
-|GQ   |Equatorial Guinea                                    |AFRICA        |    115716|26671.69    |4.34         |
-|UA   |Ukraine                                              |EUROPE        |   2446294|571998.58   |4.28         |
-|VE   |Venezuela (Bolivarian Republic of)                   |LATIN_AMERICA |   3866438|912684.40   |4.24         |
-|BD   |Bangladesh                                           |ASIA          |    563783|136903.68   |4.12         |
-|LS   |Lesotho                                              |AFRICA        |    123192|30106.52    |4.09         |
-|TR   |Türkiye                                              |EUROPE        |   3142881|780079.65   |4.03         |
-|GY   |Guyana                                               |LATIN_AMERICA |    838446|211213.70   |3.97         |
-|BI   |Burundi                                              |AFRICA        |    105348|27041.27    |3.90         |
-|SR   |Suriname                                             |LATIN_AMERICA |    558594|145123.53   |3.85         |
-|RO   |Romania                                              |EUROPE        |    909038|236376.66   |3.85         |
-|PY   |Paraguay                                             |LATIN_AMERICA |   1476254|399901.05   |3.69         |
-|MG   |Madagascar                                           |AFRICA        |   2121245|592983.88   |3.58         |
-|BR   |Brazil                                               |LATIN_AMERICA |  29478029|8472669.68  |3.48         |
-|GH   |Ghana                                                |AFRICA        |    817918|238668.68   |3.43         |
-|MD   |Moldova, Republic of                                 |EUROPE        |    112603|33206.48    |3.39         |
-|ZW   |Zimbabwe                                             |AFRICA        |   1267514|389337.48   |3.26         |
-|SN   |Senegal                                              |AFRICA        |    632543|196224.30   |3.22         |
-|AL   |Albania                                              |EUROPE        |     88247|28335.85    |3.11         |
-|MW   |Malawi                                               |AFRICA        |    367698|119397.77   |3.08         |
-|AZ   |Azerbaijan                                           |EUROPE        |    260463|86249.80    |3.02         |
-|GA   |Gabon                                                |AFRICA        |    687574|259968.48   |2.64         |
-|VN   |Viet Nam                                             |ASIA          |    854957|328892.12   |2.60         |
-|TZ   |Tanzania, United Republic of                         |AFRICA        |   2322647|941505.99   |2.47         |
-|GW   |Guinea-Bissau                                        |AFRICA        |     76969|32829.63    |2.34         |
-|TG   |Togo                                                 |AFRICA        |    130078|56863.48    |2.29         |
-|MA   |Morocco                                              |AFRICA        |   1324217|591745.25   |2.24         |
-|BO   |Bolivia (Plurinational State of)                     |LATIN_AMERICA |   2269842|1086810.65  |2.09         |
-|BY   |Belarus                                              |EUROPE        |    422499|207499.13   |2.04         |
-|LR   |Liberia                                              |AFRICA        |    189057|95298.15    |1.98         |
-|ID   |Indonesia                                            |ASIA          |   3575718|1879827.37  |1.90         |
-|CM   |Cameroon                                             |AFRICA        |    823979|464319.28   |1.77         |
-|CI   |Côte d’Ivoire                                        |AFRICA        |    548115|320677.16   |1.71         |
-|BW   |Botswana                                             |AFRICA        |    957944|579029.20   |1.65         |
-|DJ   |Djibouti                                             |AFRICA        |     34961|21847.61    |1.60         |
-|TN   |Tunisia                                              |AFRICA        |    242519|156611.69   |1.55         |
-|SL   |Sierra Leone                                         |AFRICA        |    106981|71611.71    |1.49         |
-|OM   |Oman                                                 |ASIA          |    464903|311213.45   |1.49         |
-|BA   |Bosnia and Herzegovina                               |EUROPE        |     73589|51826.54    |1.42         |
-|JO   |Jordan                                               |ASIA          |    119064|88863.05    |1.34         |
-|LA   |Lao People’s Democratic Republic                     |ASIA          |    273492|228113.97   |1.20         |
-|NG   |Nigeria                                              |AFRICA        |   1045812|907501.08   |1.15         |
-|AF   |Afghanistan                                          |ASIA          |    716431|642181.62   |1.12         |
-|CN   |China                                                |ASIA          |  10407657|9374591.22  |1.11         |
-|ZM   |Zambia                                               |AFRICA        |    756154|751914.94   |1.01         |
-|KG   |Kyrgyzstan                                           |EUROPE        |    197795|198990.46   |0.99         |
-|GN   |Guinea                                               |AFRICA        |    242258|244301.98   |0.99         |
-|MZ   |Mozambique                                           |AFRICA        |    781002|788448.54   |0.99         |
-|BF   |Burkina Faso                                         |AFRICA        |    257870|272769.40   |0.95         |
-|ET   |Ethiopia                                             |AFRICA        |    972597|1127375.98  |0.86         |
-|SY   |Syrian Arab Republic                                 |ASIA          |    142530|185939.05   |0.77         |
-|RU   |Russian Federation                                   |EUROPE        |  12393502|16980199.62 |0.73         |
-|PK   |Pakistan                                             |ASIA          |    589450|872939.29   |0.68         |
-|TJ   |Tajikistan                                           |EUROPE        |     93424|142238.26   |0.66         |
-|MM   |Myanmar                                              |ASIA          |    400418|663159.30   |0.60         |
-|IR   |Iran (Islamic Republic of)                           |ASIA          |    935245|1622510.19  |0.58         |
-|EG   |Egypt                                                |AFRICA        |    549692|1001078.55  |0.55         |
-|CD   |Congo, Democratic Republic of the                    |AFRICA        |   1242167|2325240.42  |0.53         |
-|KP   |Korea (Democratic People’s Republic of)              |ASIA          |     56955|122379.40   |0.47         |
-|CG   |Congo                                                |AFRICA        |    138458|344888.68   |0.40         |
-|MN   |Mongolia                                             |ASIA          |    580891|1564648.99  |0.37         |
-|GL   |Greenland                                            |NORTH_AMERICA |    646589|2154380.79  |0.30         |
-|AO   |Angola                                               |AFRICA        |    332029|1244654.31  |0.27         |
-|UZ   |Uzbekistan                                           |EUROPE        |    119201|447830.16   |0.27         |
-|YE   |Yemen                                                |ASIA          |    119804|453075.76   |0.26         |
-|IQ   |Iraq                                                 |ASIA          |    110602|437366.98   |0.25         |
-|SA   |Saudi Arabia                                         |ASIA          |    482835|1921725.38  |0.25         |
-|AQ   |Antarctica                                           |ANTARCTICA    |   3047711|12358174.39 |0.25         |
-|ER   |Eritrea                                              |AFRICA        |     27996|122537.74   |0.23         |
-|CF   |Central African Republic                             |AFRICA        |    117604|617984.24   |0.19         |
-|KZ   |Kazakhstan                                           |EUROPE        |    435164|2714263.37  |0.16         |
-|SO   |Somalia                                              |AFRICA        |     69044|471815.00   |0.15         |
-|DZ   |Algeria                                              |AFRICA        |    331862|2308857.82  |0.14         |
-|MR   |Mauritania                                           |AFRICA        |    143091|1036391.82  |0.14         |
-|ML   |Mali                                                 |AFRICA        |    148850|1252723.66  |0.12         |
-|TM   |Turkmenistan                                         |EUROPE        |     49973|470850.40   |0.11         |
-|NE   |Niger                                                |AFRICA        |    100446|1181300.89  |0.09         |
-|SD   |Sudan                                                |AFRICA        |    157147|1857637.07  |0.08         |
-|TD   |Chad                                                 |AFRICA        |     76592|1266282.34  |0.06         |
-|LY   |Libya                                                |AFRICA        |     61022|1623760.90  |0.04         |
+|VA   |Holy See                                             |EUROPE        |      2993|0.01        |245250.88    |
+|UM   |United States Minor Outlying Islands                 |OCEANIA       |    317820|28.00       |11348.87     |
+|BM   |Bermuda                                              |LATIN_AMERICA |    631452|62.30       |10135.31     |
+|GI   |Gibraltar                                            |EUROPE        |     31991|3.69        |8664.08      |
+|PT   |Portugal                                             |EUROPE        |  17736399|2767.06     |6409.83      |
+|GG   |Guernsey                                             |EUROPE        |    231426|73.98       |3128.15      |
+|AI   |Anguilla                                             |LATIN_AMERICA |    230625|80.67       |2858.73      |
+|SG   |Singapore                                            |ASIA          |   1365717|510.50      |2675.24      |
+|NL   |Netherlands                                          |EUROPE        |  98955269|37397.73    |2646.02      |
+|IM   |Isle of Man                                          |EUROPE        |   1354854|574.82      |2357.02      |
+|AS   |American Samoa                                       |OCEANIA       |    416235|180.31      |2308.50      |
+|NF   |Norfolk Island                                       |OCEANIA       |     72908|41.15       |1771.91      |
+|SX   |Sint Maarten (Dutch part)                            |LATIN_AMERICA |     34327|23.36       |1469.57      |
+|HK   |Hong Kong                                            |ASIA          |   1493266|1036.20     |1441.09      |
+|AW   |Aruba                                                |LATIN_AMERICA |    236131|169.77      |1390.92      |
+|DK   |Denmark                                              |EUROPE        |  53604405|42696.43    |1255.48      |
+|VI   |Virgin Islands (U.S.)                                |LATIN_AMERICA |    439853|354.75      |1239.90      |
+|BE   |Belgium                                              |EUROPE        |  35831785|30669.83    |1168.31      |
+|LU   |Luxembourg                                           |EUROPE        |   2989953|2608.47     |1146.25      |
+|MF   |Saint Martin (French part)                           |LATIN_AMERICA |     73741|68.28       |1079.99      |
+|JE   |Jersey                                               |EUROPE        |    114791|119.05      |964.22       |
+|MO   |Macao                                                |ASIA          |     28414|30.08       |944.72       |
+|KY   |Cayman Islands                                       |LATIN_AMERICA |    291929|309.20      |944.15       |
+|MH   |Marshall Islands                                     |OCEANIA       |    147667|164.82      |895.92       |
+|MV   |Maldives                                             |ASIA          |     94435|108.74      |868.43       |
+|BL   |Saint Barthélemy                                     |LATIN_AMERICA |     18765|24.42       |768.32       |
+|CW   |Curaçao                                              |LATIN_AMERICA |    330375|463.25      |713.17       |
+|IO   |British Indian Ocean Territory                       |ASIA          |     34744|49.06       |708.18       |
+|GB   |United Kingdom of Great Britain and Northern Ireland |EUROPE        | 149418740|243783.21   |612.92       |
+|SC   |Seychelles                                           |AFRICA        |    266754|435.67      |612.29       |
+|PN   |Pitcairn                                             |OCEANIA       |     23077|42.57       |542.10       |
+|CH   |Switzerland                                          |EUROPE        |  22376297|41435.80    |540.02       |
+|TW   |Chinese Taipei                                       |ASIA          |  18214405|36197.77    |503.19       |
+|VG   |Virgin Islands (British)                             |LATIN_AMERICA |     72058|144.94      |497.15       |
+|MS   |Montserrat                                           |LATIN_AMERICA |     48251|99.60       |484.46       |
+|CR   |Costa Rica                                           |LATIN_AMERICA |  24777099|51144.34    |484.45       |
+|HM   |Heard Island and McDonald Islands                    |ANTARCTICA    |    190622|394.86      |482.75       |
+|LI   |Liechtenstein                                        |EUROPE        |     65964|137.25      |480.61       |
+|TV   |Tuvalu                                               |OCEANIA       |     10590|23.02       |460.06       |
+|PW   |Palau                                                |OCEANIA       |    217201|491.93      |441.53       |
+|MP   |Northern Mariana Islands                             |OCEANIA       |    254190|579.30      |438.78       |
+|NU   |Niue                                                 |OCEANIA       |     82387|220.57      |373.52       |
+|GD   |Grenada                                              |LATIN_AMERICA |    129695|347.26      |373.48       |
+|WF   |Wallis and Futuna                                    |OCEANIA       |     51613|139.33      |370.44       |
+|BB   |Barbados                                             |LATIN_AMERICA |    154607|444.22      |348.04       |
+|CK   |Cook Islands                                         |OCEANIA       |     66495|191.13      |347.90       |
+|AD   |Andorra                                              |EUROPE        |    154318|452.25      |341.22       |
+|MC   |Monaco                                               |EUROPE        |      6124|18.84       |325.06       |
+|GU   |Guam                                                 |OCEANIA       |    170597|564.20      |302.37       |
+|SE   |Sweden                                               |EUROPE        | 126942090|446178.44   |284.51       |
+|PR   |Puerto Rico                                          |LATIN_AMERICA |   2533194|9005.98     |281.28       |
+|BZ   |Belize                                               |LATIN_AMERICA |   5927484|22299.42    |265.81       |
+|PM   |Saint Pierre and Miquelon                            |NORTH_AMERICA |     64024|242.75      |263.74       |
+|FM   |Micronesia (Federated States of)                     |OCEANIA       |    166165|633.85      |262.15       |
+|TO   |Tonga                                                |OCEANIA       |    157199|603.11      |260.65       |
+|FR   |France                                               |EUROPE        | 149221272|636758.53   |234.35       |
+|IL   |Israel                                               |EUROPE        |   5092655|21900.93    |232.53       |
+|MT   |Malta                                                |EUROPE        |     73092|325.69      |224.42       |
+|FO   |Faroe Islands                                        |EUROPE        |    295699|1328.52     |222.58       |
+|TT   |Trinidad and Tobago                                  |LATIN_AMERICA |   1094842|5122.93     |213.71       |
+|NR   |Nauru                                                |OCEANIA       |      5304|28.77       |184.38       |
+|KI   |Kiribati                                             |OCEANIA       |    174617|949.86      |183.83       |
+|PF   |French Polynesia                                     |OCEANIA       |    585471|3336.55     |175.47       |
+|EE   |Estonia                                              |EUROPE        |   7702992|45819.04    |168.12       |
+|VC   |Saint Vincent and the Grenadines                     |LATIN_AMERICA |     59240|367.73      |161.10       |
+|AG   |Antigua and Barbuda                                  |LATIN_AMERICA |     72650|451.48      |160.92       |
+|KN   |Saint Kitts and Nevis                                |LATIN_AMERICA |     41476|264.13      |157.03       |
+|DE   |Germany                                              |EUROPE        |  55602535|357673.82   |155.46       |
+|DM   |Dominica                                             |LATIN_AMERICA |    109346|730.31      |149.72       |
+|TC   |Turks and Caicos Islands                             |LATIN_AMERICA |     64605|445.22      |145.11       |
+|LC   |Saint Lucia                                          |LATIN_AMERICA |     84137|605.13      |139.04       |
+|NO   |Norway                                               |EUROPE        |  48728887|382066.56   |127.54       |
+|ES   |Spain                                                |EUROPE        |  63728571|506884.12   |125.73       |
+|FI   |Finland                                              |EUROPE        |  39618674|333059.06   |118.95       |
+|AT   |Austria                                              |EUROPE        |   9609599|83993.20    |114.41       |
+|SH   |Saint Helena, Ascension and Tristan da Cunha         |AFRICA        |     40107|366.66      |109.38       |
+|US   |United States of America                             |NORTH_AMERICA | 944757380|9464330.07  |99.82        |
+|PA   |Panama                                               |LATIN_AMERICA |   7038339|74530.31    |94.44        |
+|GS   |South Georgia and the South Sandwich Islands         |ANTARCTICA    |    330101|3921.48     |84.18        |
+|BS   |Bahamas                                              |LATIN_AMERICA |    995287|12592.70    |79.04        |
+|CY   |Cyprus                                               |EUROPE        |    419614|5395.02     |77.78        |
+|JM   |Jamaica                                              |LATIN_AMERICA |    831635|11032.90    |75.38        |
+|PG   |Papua New Guinea                                     |OCEANIA       |   2100006|29367.93    |71.51        |
+|ST   |Sao Tome and Principe                                |AFRICA        |     73163|1037.16     |70.54        |
+|KR   |Korea, Republic of                                   |ASIA          |   6732651|98544.43    |68.32        |
+|MU   |Mauritius                                            |AFRICA        |    135810|2014.44     |67.42        |
+|IE   |Ireland                                              |EUROPE        |   4195916|69445.01    |60.42        |
+|SV   |El Salvador                                          |LATIN_AMERICA |   1135972|20539.23    |55.31        |
+|GM   |Gambia                                               |AFRICA        |    551601|10500.90    |52.53        |
+|NZ   |New Zealand                                          |OCEANIA       |  13288073|268494.58   |49.49        |
+|NC   |New Caledonia                                        |OCEANIA       |    928507|18841.03    |49.28        |
+|CZ   |Czechia                                              |EUROPE        |   3438010|78758.86    |43.65        |
+|SM   |San Marino                                           |EUROPE        |      2557|60.32       |42.39        |
+|CV   |Cabo Verde                                           |AFRICA        |    156724|3883.14     |40.36        |
+|SI   |Slovenia                                             |EUROPE        |    818782|20327.28    |40.28        |
+|BH   |Bahrain                                              |ASIA          |     22674|584.94      |38.76        |
+|GT   |Guatemala                                            |LATIN_AMERICA |   4188263|108811.25   |38.49        |
+|EC   |Ecuador                                              |LATIN_AMERICA |   9815143|255014.21   |38.49        |
+|TF   |French Southern Territories                          |ANTARCTICA    |    254969|7279.99     |35.02        |
+|JP   |Japan                                                |ASIA          |  11197379|373508.03   |29.98        |
+|ZA   |South Africa                                         |AFRICA        |  36502459|1219826.73  |29.92        |
+|HN   |Honduras                                             |LATIN_AMERICA |   3184309|112236.73   |28.37        |
+|KM   |Comoros                                              |AFRICA        |     47142|1672.23     |28.19        |
+|LK   |Sri Lanka                                            |ASIA          |   1798077|66291.18    |27.12        |
+|WS   |Samoa                                                |OCEANIA       |     74095|2780.41     |26.65        |
+|AE   |United Arab Emirates                                 |ASIA          |   1804163|71084.64    |25.38        |
+|PL   |Poland                                               |EUROPE        |   7785792|313430.77   |24.84        |
+|CO   |Colombia                                             |LATIN_AMERICA |  27799079|1135117.88  |24.49        |
+|IT   |Italy                                                |EUROPE        |   6615381|301185.07   |21.96        |
+|SZ   |Eswatini                                             |AFRICA        |    359761|17111.85    |21.02        |
+|GR   |Greece                                               |EUROPE        |   2736274|131353.44   |20.83        |
+|FJ   |Fiji                                                 |OCEANIA       |    366650|18930.08    |19.37        |
+|FK   |Falkland Islands (Malvinas)                          |LATIN_AMERICA |    223943|11597.22    |19.31        |
+|IS   |Iceland                                              |EUROPE        |   1951972|102390.07   |19.06        |
+|LT   |Lithuania                                            |EUROPE        |   1112284|64939.30    |17.13        |
+|KW   |Kuwait                                               |ASIA          |    297683|17474.02    |17.04        |
+|CU   |Cuba                                                 |LATIN_AMERICA |   1839950|109929.18   |16.74        |
+|DO   |Dominican Republic                                   |LATIN_AMERICA |    808974|48439.79    |16.70        |
+|VU   |Vanuatu                                              |OCEANIA       |    198407|12296.60    |16.14        |
+|AU   |Australia                                            |OCEANIA       | 123632682|7691175.09  |16.07        |
+|CA   |Canada                                               |NORTH_AMERICA | 156529874|9945527.76  |15.74        |
+|MX   |Mexico                                               |LATIN_AMERICA |  30659861|1957847.06  |15.66        |
+|SK   |Slovakia                                             |EUROPE        |    745139|48457.79    |15.38        |
+|GE   |Georgia                                              |EUROPE        |   1061947|69570.73    |15.26        |
+|HR   |Croatia                                              |EUROPE        |    838803|55077.44    |15.23        |
+|NI   |Nicaragua                                            |LATIN_AMERICA |   1830266|128691.43   |14.22        |
+|HU   |Hungary                                              |EUROPE        |   1271030|93200.95    |13.64        |
+|CL   |Chile                                                |LATIN_AMERICA |   9691204|736592.75   |13.16        |
+|IN   |India                                                |ASIA          |  41104863|3151452.49  |13.04        |
+|RW   |Rwanda                                               |AFRICA        |    323094|25305.05    |12.77        |
+|LB   |Lebanon                                              |ASIA          |    127063|10000.01    |12.71        |
+|QA   |Qatar                                                |ASIA          |    120913|11150.11    |10.84        |
+|BT   |Bhutan                                               |ASIA          |    428845|40365.36    |10.62        |
+|BG   |Bulgaria                                             |EUROPE        |   1147657|112760.69   |10.18        |
+|HT   |Haiti                                                |LATIN_AMERICA |    273065|26891.57    |10.15        |
+|TH   |Thailand                                             |ASIA          |   4992184|514453.68   |9.70         |
+|MY   |Malaysia                                             |ASIA          |   3145511|327884.89   |9.59         |
+|BJ   |Benin                                                |AFRICA        |   1107809|116113.31   |9.54         |
+|BN   |Brunei Darussalam                                    |ASIA          |     54118|5716.69     |9.47         |
+|SB   |Solomon Islands                                      |OCEANIA       |    257023|27198.79    |9.45         |
+|RS   |Serbia                                               |EUROPE        |    700980|77573.60    |9.04         |
+|LV   |Latvia                                               |EUROPE        |    546672|64576.40    |8.47         |
+|PH   |Philippines                                          |ASIA          |   2456447|293237.49   |8.38         |
+|UY   |Uruguay                                              |LATIN_AMERICA |   1402281|177345.13   |7.91         |
+|NP   |Nepal                                                |ASIA          |   1150700|147105.49   |7.82         |
+|UG   |Uganda                                               |AFRICA        |   1891486|241853.63   |7.82         |
+|ME   |Montenegro                                           |EUROPE        |    101679|13727.50    |7.41         |
+|AM   |Armenia                                              |EUROPE        |    205130|29588.31    |6.93         |
+|KE   |Kenya                                                |AFRICA        |   3922628|585702.58   |6.70         |
+|PE   |Peru                                                 |LATIN_AMERICA |   8333588|1289866.40  |6.46         |
+|TL   |Timor-Leste                                          |ASIA          |     82239|15082.24    |5.45         |
+|KH   |Cambodia                                             |ASIA          |    819408|181059.61   |4.53         |
+|AR   |Argentina                                            |LATIN_AMERICA |  12584494|2784305.92  |4.52         |
+|MK   |North Macedonia                                      |EUROPE        |    112855|25385.27    |4.45         |
+|GQ   |Equatorial Guinea                                    |AFRICA        |    116923|26671.69    |4.38         |
+|UA   |Ukraine                                              |EUROPE        |   2480853|571998.58   |4.34         |
+|VE   |Venezuela (Bolivarian Republic of)                   |LATIN_AMERICA |   3868270|912684.40   |4.24         |
+|BD   |Bangladesh                                           |ASIA          |    561094|136903.68   |4.10         |
+|LS   |Lesotho                                              |AFRICA        |    123145|30106.52    |4.09         |
+|BI   |Burundi                                              |AFRICA        |    109263|27041.27    |4.04         |
+|TR   |Türkiye                                              |EUROPE        |   3146705|780079.65   |4.03         |
+|GY   |Guyana                                               |LATIN_AMERICA |    839357|211213.70   |3.97         |
+|SR   |Suriname                                             |LATIN_AMERICA |    561319|145123.53   |3.87         |
+|RO   |Romania                                              |EUROPE        |    912931|236376.66   |3.86         |
+|PY   |Paraguay                                             |LATIN_AMERICA |   1476939|399901.05   |3.69         |
+|MG   |Madagascar                                           |AFRICA        |   2126285|592983.88   |3.59         |
+|BR   |Brazil                                               |LATIN_AMERICA |  29704982|8472669.68  |3.51         |
+|GH   |Ghana                                                |AFRICA        |    822769|238668.68   |3.45         |
+|MD   |Moldova, Republic of                                 |EUROPE        |    112638|33206.48    |3.39         |
+|ZW   |Zimbabwe                                             |AFRICA        |   1269900|389337.48   |3.26         |
+|SN   |Senegal                                              |AFRICA        |    639635|196224.30   |3.26         |
+|AL   |Albania                                              |EUROPE        |     91143|28335.85    |3.22         |
+|MW   |Malawi                                               |AFRICA        |    370174|119397.77   |3.10         |
+|AZ   |Azerbaijan                                           |EUROPE        |    260972|86249.80    |3.03         |
+|GA   |Gabon                                                |AFRICA        |    696386|259968.48   |2.68         |
+|VN   |Viet Nam                                             |ASIA          |    858275|328892.12   |2.61         |
+|TZ   |Tanzania, United Republic of                         |AFRICA        |   2333786|941505.99   |2.48         |
+|GW   |Guinea-Bissau                                        |AFRICA        |     77496|32829.63    |2.36         |
+|TG   |Togo                                                 |AFRICA        |    130597|56863.48    |2.30         |
+|MA   |Morocco                                              |AFRICA        |   1329638|591745.25   |2.25         |
+|BO   |Bolivia (Plurinational State of)                     |LATIN_AMERICA |   2273549|1086810.65  |2.09         |
+|BY   |Belarus                                              |EUROPE        |    424636|207499.13   |2.05         |
+|LR   |Liberia                                              |AFRICA        |    190803|95298.15    |2.00         |
+|ID   |Indonesia                                            |ASIA          |   3658662|1879827.37  |1.95         |
+|CM   |Cameroon                                             |AFRICA        |    833932|464319.28   |1.80         |
+|CI   |Côte d’Ivoire                                        |AFRICA        |    551735|320677.16   |1.72         |
+|BW   |Botswana                                             |AFRICA        |    960425|579029.20   |1.66         |
+|DJ   |Djibouti                                             |AFRICA        |     35054|21847.61    |1.60         |
+|TN   |Tunisia                                              |AFRICA        |    242969|156611.69   |1.55         |
+|OM   |Oman                                                 |ASIA          |    469336|311213.45   |1.51         |
+|SL   |Sierra Leone                                         |AFRICA        |    107840|71611.71    |1.51         |
+|BA   |Bosnia and Herzegovina                               |EUROPE        |     73907|51826.54    |1.43         |
+|JO   |Jordan                                               |ASIA          |    119683|88863.05    |1.35         |
+|LA   |Lao People’s Democratic Republic                     |ASIA          |    273780|228113.97   |1.20         |
+|NG   |Nigeria                                              |AFRICA        |   1054078|907501.08   |1.16         |
+|AF   |Afghanistan                                          |ASIA          |    716524|642181.62   |1.12         |
+|CN   |China                                                |ASIA          |  10416174|9374591.22  |1.11         |
+|ZM   |Zambia                                               |AFRICA        |    762790|751914.94   |1.01         |
+|KG   |Kyrgyzstan                                           |EUROPE        |    198555|198990.46   |1.00         |
+|GN   |Guinea                                               |AFRICA        |    243143|244301.98   |1.00         |
+|MZ   |Mozambique                                           |AFRICA        |    783672|788448.54   |0.99         |
+|BF   |Burkina Faso                                         |AFRICA        |    258475|272769.40   |0.95         |
+|ET   |Ethiopia                                             |AFRICA        |    974389|1127375.98  |0.86         |
+|SY   |Syrian Arab Republic                                 |ASIA          |    143174|185939.05   |0.77         |
+|RU   |Russian Federation                                   |EUROPE        |  12502905|16980199.62 |0.74         |
+|PK   |Pakistan                                             |ASIA          |    586398|872939.29   |0.67         |
+|TJ   |Tajikistan                                           |EUROPE        |     93523|142238.26   |0.66         |
+|MM   |Myanmar                                              |ASIA          |    400885|663159.30   |0.60         |
+|IR   |Iran (Islamic Republic of)                           |ASIA          |    935288|1622510.19  |0.58         |
+|EG   |Egypt                                                |AFRICA        |    551321|1001078.55  |0.55         |
+|CD   |Congo, Democratic Republic of the                    |AFRICA        |   1276246|2325240.42  |0.55         |
+|KP   |Korea (Democratic People’s Republic of)              |ASIA          |     56964|122379.40   |0.47         |
+|CG   |Congo                                                |AFRICA        |    143916|344888.68   |0.42         |
+|MN   |Mongolia                                             |ASIA          |    581525|1564648.99  |0.37         |
+|GL   |Greenland                                            |NORTH_AMERICA |    662174|2154380.79  |0.31         |
+|UZ   |Uzbekistan                                           |EUROPE        |    120524|447830.16   |0.27         |
+|AO   |Angola                                               |AFRICA        |    334345|1244654.31  |0.27         |
+|YE   |Yemen                                                |ASIA          |    120252|453075.76   |0.27         |
+|IQ   |Iraq                                                 |ASIA          |    110785|437366.98   |0.25         |
+|SA   |Saudi Arabia                                         |ASIA          |    480728|1921725.38  |0.25         |
+|AQ   |Antarctica                                           |ANTARCTICA    |   3037835|12358174.39 |0.25         |
+|ER   |Eritrea                                              |AFRICA        |     28016|122537.74   |0.23         |
+|CF   |Central African Republic                             |AFRICA        |    118969|617984.24   |0.19         |
+|KZ   |Kazakhstan                                           |EUROPE        |    439715|2714263.37  |0.16         |
+|DZ   |Algeria                                              |AFRICA        |    340364|2308857.82  |0.15         |
+|SO   |Somalia                                              |AFRICA        |     68987|471815.00   |0.15         |
+|MR   |Mauritania                                           |AFRICA        |    143121|1036391.82  |0.14         |
+|ML   |Mali                                                 |AFRICA        |    149802|1252723.66  |0.12         |
+|TM   |Turkmenistan                                         |EUROPE        |     50138|470850.40   |0.11         |
+|NE   |Niger                                                |AFRICA        |    100854|1181300.89  |0.09         |
+|SD   |Sudan                                                |AFRICA        |    156974|1857637.07  |0.08         |
+|TD   |Chad                                                 |AFRICA        |     76916|1266282.34  |0.06         |
+|LY   |Libya                                                |AFRICA        |     61106|1623760.90  |0.04         |
 
 
